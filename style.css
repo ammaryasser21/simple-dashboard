@@ -202,10 +202,6 @@ header h1 {
     -o-border-radius: 5px;
 }
 
-.custom-select {
-    width: 200px;
-}
-
 select {
     background: transparent;
     padding: 10px;
